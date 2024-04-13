@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About Me
+order: 1
 ---
 
 I am a currently a PhD student at the University of Glasgow under the supervision of Dr Colin Perkins and Dr Ornela Dardha. 
